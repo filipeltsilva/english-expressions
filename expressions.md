@@ -1,5 +1,5 @@
 Expression | Meaning
----------- | --------
+:---------- | --------:
 Thank you  | Obrigado
 Thanks     | Obrigado
 Please     | Por favor
@@ -36,3 +36,43 @@ Nice to meet you | Muito prazer, prazer em conhecê-lo(a)
 Nice to meet you, too | O prazer é meu
 How many | Quantos
 About | Sobre, mais ou menos, aproximadamente
+What time? | Que horas?
+What time is it? | Que horas são?
+To get up | Levantar-se
+To go to bed | Ir dormir
+This morning | Hoje de manhã
+This afternoon | Hoje à tarde
+Tonight | Hoje à noite
+Tomorrow morning | Amanhã de manhã
+e-mail box | Caixa de e-mail
+To have breakfast | Tomar café da manhã
+To have lunch | Almoçar
+To have dinner | Jantar
+To have a snack | Tomar um lanche
+Very well | Muito bem
+On vacation | De férias
+This time | Desta vez
+Next time | Da próxima vez
+April Fool's Day | Primeiro de abril
+A lot | Muito, bastante
+A lot of | Muito, muitos
+How much | Quanto
+Do me a favor | Faça-me um favor
+To make the bed | Arrumar a cama
+All day long | O dia todo
+All night long | A noite toda
+In the morning | De manhã
+In the afternoon | De tarde
+In the evening | À noite
+At night | À noite
+Bye-bye | Tchau
+The day after tomorrow | Depois de amanhã
+Weekend | Fim de semana
+What about you? | E você?
+For brunch | No brunch (pequena refeição entre o café da manhã e o almoço)
+Password | Senha
+Bucks | Dólares
+Money order | Ordem de pagamento
+Tomorrow night | Amanhã à noite
+By mail | Pelo correio
+To work | Funcionar
