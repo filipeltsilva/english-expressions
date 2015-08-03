@@ -1,5 +1,5 @@
 Expression | Meaning
-:---------- | --------:
+:---------- | :--------
 Thank you  | Obrigado
 Thanks     | Obrigado
 Please     | Por favor
@@ -76,3 +76,66 @@ Money order | Ordem de pagamento
 Tomorrow night | Amanhã à noite
 By mail | Pelo correio
 To work | Funcionar
+Chat room | Sala de bate-papo
+That's okay | Tudo bem
+Right away | Agora mesmo
+What's the meaning of...? | Qual o significado de...?
+Brown sugar | Açúcar mascavo
+Chocolate chips | Gotas de chocolate
+Scrambled eggs | Ovos mexidos
+Boiled eggs | Ovos cozidos
+Once again | Mais uma vez
+To work out | Exercitar-se
+Dentist's office | Consultório odontológico
+Doctor's office | Consultório médico
+Some | Algum
+Any | Algum (negação, questão), nenhum
+Me too | Eu também
+Overtime | Hora extra
+To take a nap | Tirar um cochilo
+To be hungry | Estar com fome
+To be thirsty | Estar com sede
+To be in a hurry | Estar com pressa
+To be quiet | Estar quieto
+To be online | Estar online
+To be cool | Ficar calmo
+Sold out | Esgotado, vendido
+Full name | Nome completo
+First time | Primeira vez
+Part-time | Meio período
+Full-time | Período integral
+Conference room | Sala de reuniões
+Conference call | Chamada telefônica
+Something | Alguma coisa, algo
+Anything | Alguma coisa (negação, questão), qualquer coisa, nada
+Nothing | Nada
+Anymore | Não mais
+So | Então, por isso, tão
+So far | Até agora
+Close to | Perto de
+Right now | Agora mesmo
+Too much | Demais
+Too little | Muito pouco
+Too late | Tarde demais
+Congratulations | Parabéns
+Awesome | Impressionante
+Good job | Bom trabalho
+To make money | Ganhar dinheiro
+To make a phone call | Telefonar
+To do the laundry | Lavar roupas
+To do the dishes | Lavar louças
+To make a backup | Fazer um backup
+Cell phone | Celular
+Cereal bar | Barra de cereal
+A day | Por dia
+A week | Por semana
+A month | Por mês
+A year | Por ano
+Once | Uma vez
+Twice | Duas vezes
+Three times | Três vezes
+To take a shower | Tomar banho
+Gift certificate | Vale-presente
+Somebody | Alguém
+Anybody | Alguém (negação, questão), ninguém
+Nobody | Ninguém
